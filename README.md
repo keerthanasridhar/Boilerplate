@@ -1,1 +1,1 @@
-# expensify-app-React
+# BoilterPlate for (React/redux)
