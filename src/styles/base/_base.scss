@@ -1,0 +1,30 @@
+//contaning the base or the template style
+//rem
+* {
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+
+body {  
+color: $dark-grey;    
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    
+    
+}
+
+button{
+    cursor:pointer;
+}
+
+button:disabeled {
+cursor: default;
+}
+
+.is-active {
+    font-weight: bold;
+    
+}

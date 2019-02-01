@@ -1,0 +1,33 @@
+.button {
+    color: white;
+    background-color: $btn-green;
+    padding: $s-size;
+    font-weight: 300;
+    font-size: "$font-size-large";
+    border-radius: 10px;
+    border: none;  
+}
+
+.button-action{
+    color: white;
+    background-color: $pink;
+    padding: $s-size;
+    font-weight: 300;
+    font-size: "$font-size-large";
+    border-radius: 2px;
+    border: none;   
+    line-height: 1;
+    text-decoration: none;
+}
+
+.button--link {
+    background: none;
+    color:$btn-green;
+    border: none;
+    font-size: $m-size;
+}
+
+.button--secondary{
+    background-color: $grey;
+    border-radius: 3px
+}
